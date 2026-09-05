@@ -1,8 +1,8 @@
-# Final-Power-BI-Project
-This Repo contains my final power bi project with ROUTE
+# Final-Power-BI-Project 📊
+🍎 Apple Pricing Dashboard 2020 - 2026 
 
 ## Dataset for project
-apple_product_pricing_2020_2026.csv
+📑 apple_product_pricing_2020_2026.csv
 
 ## Business Problem
 Apple needs a dashboard to analyze product pricing, discounts, ratings, and customer engagement to support pricing decisions.
