@@ -24,6 +24,7 @@ _______________________________
 
 ## Dashboard 
 ### Welcome Page 
+![Welcome_Page](Images/Welcome%20Page%20-%20Apple%20Dashboard.png)
 
 
 ## DAX Calculations
